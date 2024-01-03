@@ -49,3 +49,7 @@ Z
 *map-vue/src/assets/lib/jquery-2.1.1.min.js,1\0\109a4171ae83c1f7848976ef8e3b7472bb1a7dc6
 F
 map-vue/shims-vue.d.ts,9\3\934529c7107dcf5bb7bec287b21810b7eaaec03c
+M
+map-vue/src/stores/counter.ts,7\5\758c8fd0a110a9ea15c36c80f402aeef99a8bcc0
+^
+.map-vue/src/components/icons/IconEcosystem.vue,d\0\d01387dd40adb0b9a0eab2aca2b0464b9fec6025
